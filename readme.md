@@ -1,8 +1,6 @@
 <div align="center">
   <h1>
-    <code>
-      ASCII Webcam
-    </code>
+    <code>ASCII Webcam</code>
   </h1>
   <p>
     This is a Python script that captures webcam video and converts it into ASCII
